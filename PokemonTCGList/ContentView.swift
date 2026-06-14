@@ -1,24 +1,20 @@
-//
-//  ContentView.swift
-//  PokemonTCGList
-//
-//  Created by Muhammad Fajrizky on 14/06/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @AppStorage("useDarkMode") private var useDarkMode = false
 
-#Preview {
-    ContentView()
+    var body: some View {
+        TabView {
+            HomeView()
+                .tabItem {
+                    Label("Home", systemImage: "house")
+                }
+
+            AboutView()
+                .tabItem {
+                    Label("About", systemImage: "person")
+                }
+        }
+        .preferredColorScheme(useDarkMode ? .dark : nil)
+    }
 }

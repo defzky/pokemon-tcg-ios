@@ -1,14 +1,6 @@
-//
-//  PokemonTCGListUITestsLaunchTests.swift
-//  PokemonTCGListUITests
-//
-//  Created by Muhammad Fajrizky on 14/06/26.
-//
-
 import XCTest
 
 final class PokemonTCGListUITestsLaunchTests: XCTestCase {
-
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
     }
@@ -21,11 +13,6 @@ final class PokemonTCGListUITestsLaunchTests: XCTestCase {
     func testLaunch() throws {
         let app = XCUIApplication()
         app.launch()
-
-        // Insert steps here to perform after app launch but before taking a screenshot,
-        // such as logging into a test account or navigating somewhere in the app
-        // XCUIAutomation Documentation
-        // https://developer.apple.com/documentation/xcuiautomation
 
         let attachment = XCTAttachment(screenshot: app.screenshot())
         attachment.name = "Launch Screen"

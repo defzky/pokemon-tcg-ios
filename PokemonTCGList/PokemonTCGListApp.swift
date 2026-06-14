@@ -1,10 +1,3 @@
-//
-//  PokemonTCGListApp.swift
-//  PokemonTCGList
-//
-//  Created by Muhammad Fajrizky on 14/06/26.
-//
-
 import SwiftUI
 
 @main

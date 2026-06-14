@@ -1,19 +1,20 @@
-//
-//  PokemonTCGListTests.swift
-//  PokemonTCGListTests
-//
-//  Created by Muhammad Fajrizky on 14/06/26.
-//
-
 import Testing
 @testable import PokemonTCGList
 
 struct PokemonTCGListTests {
+    @Test func pokemonStoresCardData() {
+        let pokemon = Pokemon(
+            id: 1,
+            name: "Pikachu",
+            image: "pikachu",
+            description: "Electric type Pokemon card",
+            origin: "Base Set"
+        )
 
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
-        // Swift Testing Documentation
-        // https://developer.apple.com/documentation/testing
+        #expect(pokemon.id == 1)
+        #expect(pokemon.name == "Pikachu")
+        #expect(pokemon.image == "pikachu")
+        #expect(pokemon.description == "Electric type Pokemon card")
+        #expect(pokemon.origin == "Base Set")
     }
-
 }

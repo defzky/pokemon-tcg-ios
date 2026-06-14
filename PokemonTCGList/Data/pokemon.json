@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Charizard ex",
+    "image": "charizard_ex",
+    "origin": "Obsidian Flames",
+    "type": "Fire",
+    "description": "Charizard ex merupakan salah satu kartu paling ikonik dalam era Scarlet & Violet. Kartu ini memiliki HP yang tinggi dan serangan kuat yang dapat menghasilkan damage besar dalam waktu singkat. Desain ilustrasinya menampilkan Charizard yang sedang mengamuk di tengah kobaran api, menjadikannya favorit para kolektor maupun pemain kompetitif."
+  },
+  {
+    "id": 2,
+    "name": "Pikachu ex",
+    "image": "pikachu_ex",
+    "origin": "Surging Sparks",
+    "type": "Lightning",
+    "description": "Pikachu ex menghadirkan maskot Pokémon dalam bentuk kartu modern dengan kemampuan yang agresif. Serangan listriknya mampu memberikan tekanan besar kepada lawan sejak awal permainan. Ilustrasi yang cerah dan popularitas Pikachu membuat kartu ini menjadi salah satu target utama para kolektor."
+  },
+  {
+    "id": 3,
+    "name": "Mew ex",
+    "image": "mew_ex",
+    "origin": "151",
+    "type": "Psychic",
+    "description": "Mew ex berasal dari set Pokémon 151 yang sangat populer karena menghadirkan kembali Pokémon generasi pertama. Kartu ini memiliki kemampuan yang fleksibel dan dapat beradaptasi dengan berbagai strategi permainan. Desainnya menonjolkan sifat misterius dan elegan dari Pokémon legendaris Mew."
+  },
+  {
+    "id": 4,
+    "name": "Gardevoir ex",
+    "image": "gardevoir_ex",
+    "origin": "Scarlet & Violet Base Set",
+    "type": "Psychic",
+    "description": "Gardevoir ex dikenal sebagai pusat berbagai deck kompetitif karena kemampuannya mempercepat energi ke Pokémon lain. Kombinasi kemampuan pendukung dan serangan yang kuat membuat kartu ini tetap relevan dalam berbagai turnamen. Ilustrasinya menggambarkan Gardevoir dengan aura magis yang memukau."
+  },
+  {
+    "id": 5,
+    "name": "Lugia VSTAR",
+    "image": "lugia_vstar",
+    "origin": "Silver Tempest",
+    "type": "Colorless",
+    "description": "Lugia VSTAR menjadi salah satu kartu paling berpengaruh pada masanya. Dengan kemampuan VSTAR Power yang unik, kartu ini mampu menghidupkan kembali Pokémon tertentu dari discard pile dan mempercepat strategi permainan. Banyak pemain kompetitif membangun deck mereka di sekitar kartu ini."
+  },
+  {
+    "id": 6,
+    "name": "Giratina VSTAR",
+    "image": "giratina_vstar",
+    "origin": "Lost Origin",
+    "type": "Dragon",
+    "description": "Giratina VSTAR merupakan kartu utama dalam strategi Lost Zone. Serangan khasnya mampu mengalahkan hampir semua Pokémon lawan hanya dengan satu pukulan. Dengan desain yang menggambarkan Giratina dalam bentuk Origin Forme, kartu ini sangat disukai oleh penggemar Pokémon legendaris."
+  },
+  {
+    "id": 7,
+    "name": "Rayquaza VMAX",
+    "image": "rayquaza_vmax",
+    "origin": "Evolving Skies",
+    "type": "Dragon",
+    "description": "Rayquaza VMAX terkenal karena artwork yang spektakuler dan kemampuannya menghasilkan damage yang sangat besar. Kartu ini menjadi simbol dari expansion Evolving Skies yang dianggap sebagai salah satu set terbaik di era Sword & Shield. Nilai koleksinya juga terus meningkat seiring waktu."
+  },
+  {
+    "id": 8,
+    "name": "Umbreon VMAX",
+    "image": "umbreon_vmax",
+    "origin": "Evolving Skies",
+    "type": "Darkness",
+    "description": "Umbreon VMAX Alternate Art sering disebut sebagai salah satu kartu modern paling indah yang pernah dirilis. Ilustrasinya menampilkan Umbreon raksasa di bawah cahaya bulan. Selain memiliki nilai koleksi yang sangat tinggi, kartu ini juga menjadi simbol bagi para kolektor Pokémon TCG modern."
+  },
+  {
+    "id": 9,
+    "name": "Arceus VSTAR",
+    "image": "arceus_vstar",
+    "origin": "Brilliant Stars",
+    "type": "Colorless",
+    "description": "Arceus VSTAR dikenal karena kemampuannya mencari kartu dan energi secara konsisten. Fleksibilitas tersebut membuatnya dapat dipasangkan dengan berbagai jenis deck. Sebagai Pokémon pencipta dunia dalam lore Pokémon, kartu ini memiliki daya tarik yang besar baik bagi pemain maupun kolektor."
+  },
+  {
+    "id": 10,
+    "name": "Miraidon ex",
+    "image": "miraidon_ex",
+    "origin": "Scarlet & Violet Base Set",
+    "type": "Lightning",
+    "description": "Miraidon ex menjadi salah satu kartu andalan pada awal era Scarlet & Violet. Kemampuannya memungkinkan pemain mengisi bench dengan cepat sehingga tempo permainan meningkat secara signifikan. Desain futuristik Miraidon membuat kartu ini terlihat modern dan berbeda dibandingkan Pokémon legendaris generasi sebelumnya."
+  }
+]
